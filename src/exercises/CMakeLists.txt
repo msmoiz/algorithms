@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.0)
+project(exercises)
+
+add_executable(1.1.03 "1.1.03.cpp")
+add_executable(1.1.06 "1.1.06.cpp")
+add_executable(1.1.07 "1.1.07.cpp")
+add_executable(1.1.08 "1.1.08.cpp")
+add_executable(1.1.09 "1.1.09.cpp")
+add_executable(1.1.11 "1.1.11.cpp")
+add_executable(1.1.12 "1.1.12.cpp")
+add_executable(1.1.13 "1.1.13.cpp")
+add_executable(1.1.14 "1.1.14.cpp")
+add_executable(1.1.16 "1.1.16.cpp")
+add_executable(1.1.18 "1.1.18.cpp")
+add_executable(1.1.19 "1.1.19.cpp")
+add_executable(1.1.20 "1.1.20.cpp")
+
+add_executable(1.2.06 "1.2.06.cpp")
